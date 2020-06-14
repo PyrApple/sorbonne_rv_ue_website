@@ -1,0 +1,11 @@
+site_name: Sorbonne VR
+nav:
+    - Home: index.md
+    - TP: 
+      - TP1: tp-audio-spat.md
+      - TP2: tp-audio-spat.md
+    - CM: c-perceiving-env.md
+
+theme: cinder
+extra_css:
+    - css/extra.css

@@ -1,0 +1,54 @@
+ /* locals */
+:root {
+	--bg-color: white;
+	--bg-color-nav: rgba(90, 90, 90, 1);
+	--bg-color-nav: rgba(90, 90, 90, 1);
+}
+
+body::before {
+	background-color: var(--bg-color);
+	background: none;
+}
+
+/* format and fonts */
+
+* {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+	font-size: 2.0em;
+	font-weight: 450;
+	/*text-transform: uppercase;*/
+}
+
+h2 {
+	font-size: 1.6em;
+	font-weight: 400;
+}
+
+h3 {
+	font-size: 1.4em;
+	font-weight: 350;
+}
+
+p, a {
+	font-size: 1.1em;
+	font-weight: 350;
+	margin-bottom: 0.2em;
+	text-align: justify;
+}
+
+/* second level list items */
+ul li ul {
+	font-size: 1em;
+}
+
+code{
+	font-size: 0.75em;
+}
+
+pre code{
+	font-size: 1.05em;
+}
+
