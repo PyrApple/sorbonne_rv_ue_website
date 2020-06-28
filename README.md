@@ -1,6 +1,6 @@
 # mkdocs sources of the Sorbonne Univ. VR course
 
-website served @ ...
+website served @ http://davipoir.gitlab-pages.ircam.fr/sorbonne-vr-ue-website/
 
 ## OSX install (devs)
 
