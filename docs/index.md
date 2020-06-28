@@ -1,4 +1,6 @@
-# Course Description
+# Sorbonne VR Course
+
+## Course Description
 
 Explore the principles and techniques of Virtual and Augmented Reality (VR and AR).
 
@@ -7,28 +9,28 @@ Explore the principles and techniques of Virtual and Augmented Reality (VR and A
 - Credits: 3 ECTS
 - 18h Course, 10h practical sessions
 
-# Expected Learning Outcome
+## Expected Learning Outcome
 
 Basic knowledge on human spatial and multimodal perception and cognition. 
 
 ...
 
-# Expected Learning Outcome
+## Expected Learning Outcome
 
 Basic knowledge on computer graphics, signal processing and programming
 
 ...
 
-# Instructors
+## Instructors
 
 - [Indira Thouvenin](https://www.hds.utc.fr/~ithouven/dokuwiki/) (UTC Compiègne)
 - [Olivier Warusfel](https://www.ircam.fr/person/olivier-warusfel/) (IRCAM-STMS)
 - [Markus Noisternig](https://www.noisternig.com/) (IRCAM-STMS)
 - [David Poirier-Quinot](https://pyrapple.github.io/) (IRCAM-STMS)
 
-# Course syllabus
+## Course syllabus
 
-## Courses
+### Courses
 
 - C1 Perceiving the environment
 	- C1.1 Human vision 
@@ -49,7 +51,7 @@ Basic knowledge on computer graphics, signal processing and programming
 - C5 Multi-modal rendering, sensory motor integration 
 	- C5.1 ... 
 
-## Practical sessions
+### Practical sessions
 
 - TP1 Hands on audio spatialisation
 
@@ -73,11 +75,11 @@ Left         | Center        | Right
  -->
 
 
-# Install
+## Install
 
 Softwares required during practical sessions:
 
-- [Unity](https://unity3d.com/get-unity/download/archive) (v 2018.3 or above)
-- [Blender](https://download.blender.org/release/Blender2.79/) (v 2.79b)
-- [Cycling '74 Max](https://cycling74.com/products/max/) (v 8 or above)
-- [Ircam Spat5](https://forumnet.ircam.fr/product/spat-en/) (v 5.1.4 or above)
+- [Unity](https://unity3d.com/get-unity/download/archive) (v2018.3 or above)
+- [Blender](https://download.blender.org/release/Blender2.79/) (v2.79b)
+- [Cycling '74 Max](https://cycling74.com/products/max/) (v8 or above)
+- [Ircam Spat5](https://forumnet.ircam.fr/product/spat-en/) (v5.1.4 or above)

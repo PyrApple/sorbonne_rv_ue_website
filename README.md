@@ -26,3 +26,7 @@ start server for local edit (in browser real-time rendering)
 deploy to gh-pages
 
 	mkdocs gh-deploy
+
+## gitlab runner
+
+start local 
