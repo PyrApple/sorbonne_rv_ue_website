@@ -16,25 +16,25 @@ body::before {
 	font-family: 'Ubuntu', sans-serif;
 }
 
+h1, h2, h3, p, a, li {
+	font-weight: 300;
+}
+
 h1 {
-	font-size: 1.8em;
-	font-weight: 450;
+	font-size: 22px;
 	/*text-transform: uppercase;*/
 }
 
 h2 {
-	font-size: 1.6em;
-	font-weight: 400;
+	font-size: 20px;
 }
 
 h3 {
-	font-size: 1.4em;
-	font-weight: 350;
+	font-size: 18px;
 }
 
 p, a, li {
-	font-size: 1em;
-	font-weight: 300;
+	font-size: 17px;
 	margin-bottom: 0.2em;
 	text-align: justify;
 }
