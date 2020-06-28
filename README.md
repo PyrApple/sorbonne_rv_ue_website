@@ -27,6 +27,23 @@ deploy to gh-pages
 
 	mkdocs gh-deploy
 
-## gitlab runner
+## register gitlab runner
 
-start local 
+gitlab-runner register \
+  --non-interactive \
+  --url "https://forge-2.ircam.fr/" \
+  --registration-token "SoQcQKFxqwaH9WkvwtRx" \
+  --executor "shell" \
+  --description "su-vr-course-website" \
+  --tag-list "su-vr" \
+  --run-untagged="true"
+  # --locked="false" \
+  # --access-level="not_protected"
+
+to check registered runners:
+
+gitlab-runner list
+
+to unregister: 
+
+gitlab-runner unregister -t SoQcQKFxqwaH9WkvwtRx- -u https://forge-2.ircam.fr/
