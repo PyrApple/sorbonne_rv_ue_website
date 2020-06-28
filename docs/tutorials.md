@@ -2,7 +2,7 @@
 
 Adding 3D sound to a VR scene.
 
-- Course [slides](assets/test.zip)
+- Tutorial [slides](assets/test.zip)
 - Exercise 1 [files](assets/test.zip)
 - Exercise 2 [files](assets/test.zip)
 - Exercise 3 [files](assets/test.zip)
