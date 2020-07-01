@@ -1,18 +1,16 @@
-<span style="color:red; font-size: 22px">SITE UNDER CONSTRUCTION</span>
+## Course description
 
-# Course Description
+Explore the principles and techniques of virtual and augmented reality.
 
-Explore the principles and techniques of Virtual and Augmented Reality (VR and AR).
+- 3 ECTS credits
+- 18h lectures + 10h tutorials
 
-- 3 ECTS Credits
-- 18h Lectures + 10h Tutorials
+## Learning outcome
 
-# Expected Learning Outcome
-
-- Basic knowledge on human spatial and multimodal perception and cognition.
+- Basic knowledge on human spatial and multi-modal perception and cognition.
 - Basic knowledge on computer graphics, signal processing and programming.
 
-# Instructors
+## Instructors
 
 - [Indira Thouvenin](https://www.hds.utc.fr/~ithouven/dokuwiki/) (UTC Compiègne)
 - [Olivier Warusfel](https://www.ircam.fr/person/olivier-warusfel/) (IRCAM-STMS)
@@ -20,11 +18,11 @@ Explore the principles and techniques of Virtual and Augmented Reality (VR and A
 - [David Poirier-Quinot](https://pyrapple.github.io/) (IRCAM-STMS)
 
 <!-- 
-# Lectures
+## Lectures
 
 See the [Lectures page](lectures.md).
 
-# Tutorials
+## Tutorials
 
 See the [Tutorials page](tutorials.md). 
 -->
@@ -41,9 +39,9 @@ Left         | Center        | Right
  -->
 
 
-# Installation
+## Installation
 
-Softwares required during tutorials:
+Softwares required during tutorials (in case you plan to use your own computer):
 
 - [Unity](https://unity3d.com/get-unity/download/archive) (v2018.3 or above)
 - [Blender](https://download.blender.org/release/Blender2.79/) (v2.79b)

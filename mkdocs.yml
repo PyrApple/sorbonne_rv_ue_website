@@ -1,4 +1,12 @@
-site_name: Sorbonne VR
+site_name: M2 ISI/SAR opt. VR
+
+theme:
+    name: cinder
+    custom_dir: cinder-theme-ext
+
+extra_css:
+    - css/extra.css
+    
 nav:
     # - Home: index.md
     # - TP: 
@@ -7,6 +15,10 @@ nav:
     - Lectures: lectures.md
     - Tutorials: tutorials.md
 
-theme: cinder
-extra_css:
-    - css/extra.css
+
+# repo_url: "https://forge-2.ircam.fr/davipoir/sorbonne-vr-ue-website"
+
+extra:
+  collapse_toc: true
+  toc_depth: 1
+  include_search: false
