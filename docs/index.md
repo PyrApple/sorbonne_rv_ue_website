@@ -1,16 +1,21 @@
-## Course description
+# Course description
 
-Explore the principles and techniques of virtual and augmented reality.
+Explore the principles and techniques of virtual and augmented reality. Learn the main properties of human sensory modalities and the principles of the sensory-motor loop involved when interacting with the physical and virtual worlds. Identify the main technological interfaces and displays used for human-machine interaction. Learn the main models and algorithms used for the interactive and real-time multi-modal rendering of the virtual scene.
 
 - 3 ECTS credits
 - 18h lectures + 10h tutorials
 
-## Learning outcome
+# Learning outcome
 
 - Basic knowledge on human spatial and multi-modal perception and cognition.
-- Basic knowledge on computer graphics, signal processing and programming.
+- Understanding of the main audio-visual rendering techniques.
+- Learn to design and implement a simple VR application.
 
-## Instructors
+# Pre-requisites
+
+Basic knowledge on computer graphics, signal processing and programming.
+
+# Instructors
 
 - [Indira Thouvenin](https://www.hds.utc.fr/~ithouven/dokuwiki/) (UTC Compiègne)
 - [Olivier Warusfel](https://www.ircam.fr/person/olivier-warusfel/) (IRCAM-STMS)
@@ -39,11 +44,11 @@ Left         | Center        | Right
  -->
 
 
-## Installation
+# Installation
 
 Softwares required during tutorials (in case you plan to use your own computer):
 
-- [Unity](https://unity3d.com/get-unity/download/archive) (v2018.3 or above)
+- [Unity](https://unity3d.com/get-unity/download/archive) (2019.2.11)
 - [Blender](https://download.blender.org/release/Blender2.79/) (v2.79b)
 - [Cycling '74 Max](https://cycling74.com/products/max/) (v8 or above)
 - [Ircam Spat5](https://forumnet.ircam.fr/product/spat-en/) (v5.1.4 or above)

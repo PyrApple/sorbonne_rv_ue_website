@@ -33,18 +33,29 @@ h3 {
 	font-size: 18px;
 }
 
-p, a:not(.nav>li>a), li {
+p, li, a{
 	font-size: 17px;
-	margin-bottom: 0.2em;
 	text-align: justify;
 }
 
+/* special treatment for toc links */
 .nav>li>a {
 	font-size: 14px;
+	margin-bottom: 0em;
+	text-align: left;
+}
+
+p, ul {
+	margin-bottom: 1em;
 }
 
 .navbar-default .navbar-nav>li>a {
 	font-size: 19px;
+}
+
+hr {
+	margin-bottom: 2em;
+	margin-top: 2em;
 }
 
 /* hide toc second etc. level elements */
