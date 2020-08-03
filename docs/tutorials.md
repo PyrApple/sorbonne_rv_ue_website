@@ -1,62 +1,38 @@
-## T1 Game creation 101
+## T1 Game creation 101 (2h)
 
-### Synopsis
+Introduction to game creation workflow. 
+Learn to use the Unity game creation software, understand the general scene creation workflow and how to use its constituting components.
 
-Introduction to the scene creation workflow in Unity: populate a scene, setup behaviors, compositing, etc. 
-
-Duration: 2h
-
-### Associated files
-
-- [slides](https://rasputin-cloud.ircam.fr/index.php/s/oyqPayrBAzS49ka)
-<!-- - [workspace]() -->
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/7J5Y8QjxMQGGesM)
+- [Assets](https://rasputin-cloud.ircam.fr/index.php/s/HwtqJPCZBgRgdxY)
 
 * * *
 
-## T2 Programming Patterns
+## T2 Audio Spatialization (2h)
 
-### Synopsis
+Practical introduction to various 3D audio rendering techniques. Learn to use some of the existing frameworks designed to add 3D sound to a Unity scene.
 
-Introduction to [game programming patterns](https://gameprogrammingpatterns.com/) and how they relate to universal game mechanics.
-
-Duration: 2h
-
-### Associated files
-
-- [slides](https://rasputin-cloud.ircam.fr/index.php/s/nrz9Q5ZJTECGYsE)
-<!-- - [workspace]() -->
-
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/8t2tN2YZAWodsQR)
+- [Assets](https://rasputin-cloud.ircam.fr/index.php/s/4ZwXf2PCjfFrk9o)
 
 * * *
 
-## T3 Audio Spatialization
+## T3 Game Programming Patterns (2h)
 
-### Synopsis
+Introduction to C# programing in Unity. Learn the basic patterns on which relies game logic design.
 
-Techniques and workflow to add 3D sounds to a VR scene: from anechoic rendering to full scale auralization.
-
-Duration: 2h
-
-### Associated files
-
-- [slides](https://rasputin-cloud.ircam.fr/index.php/s/9s3mms4gE9kFxYH)
-<!-- - [workspace]() -->
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/sX5dxbnDQWoBr4t)
+- [Assets](https://rasputin-cloud.ircam.fr/index.php/s/9AWzJaeedLcZqyb)
 
 * * *
 
-## T4 Guided VR app creation
+## T4 Mini-Project (4h)
 
-### Synopsis
+Creation of a VR application from start to finish. Reinvest the skills learned in previous tutorials to design and implement a full fledged game.
 
-Creation of a VR application from start to finish: find a concept, draft an architecture, prototype, and export to a VR headset.
-
-Duration: 2x2h
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/nCYCZXZJwDd47dw)
 
 
-### Associated files
-
-- [slides](https://rasputin-cloud.ircam.fr/index.php/s/yBAHrCfd8aik4Ac)
-<!-- - [workspace]() -->
 
 <!-- # TP3 Interactions in VR/AR (2h) -->
 <!-- # TP5 Port of an application to VR (2h) -->
