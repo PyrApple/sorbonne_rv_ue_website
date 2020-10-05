@@ -1,3 +1,5 @@
+See the course [Moodle](https://moodle-sciences.upmc.fr/moodle-2020/login/index.php) for logistic (timetable, etc.).
+
 # Course description
 
 Explore the principles and techniques of virtual and augmented reality. Learn the main properties of human sensory modalities and the principles of the sensory-motor loop involved when interacting with the physical and virtual worlds. Identify technological interfaces and displays used for human-machine interaction. Understand the models and algorithms used for the interactive and real-time multi-modal rendering of the virtual scene.

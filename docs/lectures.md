@@ -5,14 +5,14 @@
 
 Understanding how human audition works.
 
-- [Slides]()
+- [Slides [empty]]()
 
 
 ## C1.2 Human audition
 
 Understanding how human audition works.
 
-- [Slides]()
+- [Slides [empty]]()
 
 
 ***
@@ -25,14 +25,14 @@ Understanding how human audition works.
 
 ...
 
-- [Slides]()
+- [Slides [empty]]()
 
 
 ## C2.2 Multi-sensory integration
 
 Sensory-motor loop, navigation, immersion.
 
-- [Slides]()
+- [Slides [empty]]()
 
 
 ***
@@ -45,14 +45,14 @@ Sensory-motor loop, navigation, immersion.
 
 ...
 
-- [Slides]()
+- [Slides [empty]]()
 
 
 ## C3.2
 
 ...
 
-- [Slides]()
+- [Slides [empty]]()
 
 
 ***
@@ -65,14 +65,14 @@ Sensory-motor loop, navigation, immersion.
 
 ...
 
-- [Slides]()
+- [Slides [empty]]()
 
 
 ## C4.2 Room acoustic modeling and rendering
 
 ...
 
-- [Slides]()
+- [Slides [empty]]()
 
 
 ***
@@ -85,11 +85,11 @@ Sensory-motor loop, navigation, immersion.
 
 ...
 
-- [Slides]()
+- [Slides [empty]]()
 
 
 ## C5.2
 
 ...
 
-- [Slides]()
+- [Slides [empty]]()
