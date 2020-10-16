@@ -6,6 +6,11 @@ Learn to use the Unity game creation software, understand the general scene crea
 - [Slides](https://rasputin-cloud.ircam.fr/index.php/s/7J5Y8QjxMQGGesM)
 - [Assets](https://rasputin-cloud.ircam.fr/index.php/s/HwtqJPCZBgRgdxY)
 
+After the tutorial:
+
+- [Assets master](https://rasputin-cloud.ircam.fr/index.php/s/LPAWBMeT7Sw7P7S)
+- [Tutorial video](https://rasputin-cloud.ircam.fr/index.php/s/Z6AF3NceqycesRk)
+
 * * *
 
 ## T2 Audio Spatialization (2h)
