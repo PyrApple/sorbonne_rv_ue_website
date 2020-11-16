@@ -53,6 +53,6 @@ Softwares required during tutorials (already installed on university computers):
 - [Unity](https://unity3d.com/get-unity/download/archive) (2019.2.11) + [Visual Studio](https://visualstudio.microsoft.com/fr/vs/unity-tools/) (Windows) or [Visual Studio Code](https://code.visualstudio.com) (MacOS)
 - [Blender](https://download.blender.org/release/Blender2.79/) (v2.79b)
 - [Cycling '74 Max](https://cycling74.com/products/max/) (v8 or above)
-- [Ircam Spat5](https://forumnet.ircam.fr/product/spat-en/) (v5.1.4 or above)
+- [Ircam Spat](https://forumnet.ircam.fr/product/spat-en/) (v5.1.4 or above).
 
-A 12 months Cycling '74 Max licence is offered to attending students (contact [Olivier Warusfel](https://www.ircam.fr/person/olivier-warusfel/)).
+Don't forget to [add the Spat folder to Max search path](https://docs.cycling74.com/max8/vignettes/file_preferences_window). A 12 months Cycling '74 Max licence is offered to attending students (contact [Olivier Warusfel](https://www.ircam.fr/person/olivier-warusfel/)).

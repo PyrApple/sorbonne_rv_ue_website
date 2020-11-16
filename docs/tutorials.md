@@ -20,6 +20,10 @@ Practical introduction to various 3D audio rendering techniques. Learn to use so
 - [Slides](https://rasputin-cloud.ircam.fr/index.php/s/8t2tN2YZAWodsQR)
 - [Assets](https://rasputin-cloud.ircam.fr/index.php/s/4ZwXf2PCjfFrk9o)
 
+After the tutorial:
+
+- [Audio spatialization max introduction](https://rasputin-cloud.ircam.fr/index.php/s/H3kGa4bP49WbmoN)
+
 * * *
 
 ## T3 Game Programming Patterns (2h)
