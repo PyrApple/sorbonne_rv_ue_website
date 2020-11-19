@@ -3,7 +3,7 @@
 
 ## C1.1 Human vision
 
-Understanding how human audition works.
+Understanding how human vision works.
 
 - [Slides](https://rasputin-cloud.ircam.fr/index.php/s/gwXg6TKyHeobfFP)
 
