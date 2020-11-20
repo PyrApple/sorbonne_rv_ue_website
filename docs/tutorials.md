@@ -22,7 +22,9 @@ Practical introduction to various 3D audio rendering techniques. Learn to use so
 
 After the tutorial:
 
-- [Audio spatialization max introduction](https://rasputin-cloud.ircam.fr/index.php/s/H3kGa4bP49WbmoN)
+- [Audio spatialization introduction video](https://rasputin-cloud.ircam.fr/index.php/s/H3kGa4bP49WbmoN)
+- [Assets master](https://rasputin-cloud.ircam.fr/index.php/s/fSmCqeCZjEibaLQ)
+- [Tutorial video](https://rasputin-cloud.ircam.fr/index.php/s/tbqwsmttpqSg7qj)
 
 * * *
 
@@ -32,6 +34,11 @@ Introduction to C# programing in Unity. Learn the basic patterns on which relies
 
 - [Slides](https://rasputin-cloud.ircam.fr/index.php/s/sX5dxbnDQWoBr4t)
 - [Assets](https://rasputin-cloud.ircam.fr/index.php/s/9AWzJaeedLcZqyb)
+
+After the tutorial:
+
+- [Assets master](https://rasputin-cloud.ircam.fr/index.php/s/e5MwJnzMQMQjRaD)
+- [Tutorial video](https://rasputin-cloud.ircam.fr/index.php/s/tCTjT2Rns4WfQnL)
 
 * * *
 
