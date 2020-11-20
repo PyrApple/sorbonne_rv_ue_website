@@ -55,4 +55,6 @@ Softwares required during tutorials (already installed on university computers):
 - [Cycling '74 Max](https://cycling74.com/products/max/) (v8 or above)
 - [Ircam Spat](https://forumnet.ircam.fr/product/spat-en/) (v5.1.4 or above).
 
-Don't forget to [add the Spat folder to Max search path](https://docs.cycling74.com/max8/vignettes/file_preferences_window). A 12 months Cycling '74 Max licence is offered to attending students (contact [Olivier Warusfel](https://www.ircam.fr/person/olivier-warusfel/)).
+<!-- Don't forget to [add the Spat folder to Max search path](https://docs.cycling74.com/max8/vignettes/file_preferences_window).  -->
+Spat install instructions can be found [here](https://discussion.forum.ircam.fr/t/spat-5-for-max-read-this-first/21628).
+A 12 months Cycling '74 Max licence is offered to attending students (contact [Olivier Warusfel](https://www.ircam.fr/person/olivier-warusfel/)).
