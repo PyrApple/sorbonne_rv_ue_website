@@ -32,7 +32,7 @@ Understanding how human audition works.
 
 Sensory-motor loop, navigation, immersion.
 
-<!-- - [Slides [empty]]() -->
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/N9JB9cSNkj34TrJ)
 
 
 ***
