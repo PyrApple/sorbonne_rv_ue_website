@@ -5,14 +5,14 @@
 
 Understanding how human vision works.
 
-- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/gwXg6TKyHeobfFP)
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/YrY4JApBGPpct5E)
 
 
 ## C1.2 Human audition
 
 Understanding how human audition works.
 
-- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/nWiHox9d7gftCNP)
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/2bpwyporWECBSbW)
 
 
 ***
@@ -23,16 +23,15 @@ Understanding how human audition works.
 
 ## C2.1 Haptic and vestibular sensations
 
-...
 
-- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/58DXS9rb4i8Ynw7)
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/ayzbazFKfmPLMHC)
 
 
 ## C2.2 Multi-sensory integration
 
 Sensory-motor loop, navigation, immersion.
 
-- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/N9JB9cSNkj34TrJ)
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/wHNyDQZKpTjmNc3)
 
 
 ***
@@ -43,16 +42,14 @@ Sensory-motor loop, navigation, immersion.
 
 ## C3.1 3D modelling and illumination models
 
-...
 
-- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/NLLHRPb2eYZrsxC)
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/29JJSQaTXg4NwPW)
 
 
 ## C3.2 Perceptual rendering
 
-...
 
-<!-- - [Slides [empty]]() -->
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/ZbKJKzK8RZLYyi8)
 
 
 ***
@@ -78,10 +75,6 @@ image sources, beam-tracing, radiosity, etc.
 ***
 
 
-# C5 Multi-modal rendering – 3D Interaction - Sensory-Motor integration
+# C5 Multi-modal rendering, 3D interaction, and sensory-motor integration
 
-
-## C5.1
-
-
-<!-- - [Slides [empty]]() -->
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/J3FYZLMBsKTQKCe)
