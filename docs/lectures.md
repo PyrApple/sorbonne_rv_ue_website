@@ -12,7 +12,7 @@ Understanding how human vision works.
 
 Understanding how human audition works.
 
-- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/2bpwyporWECBSbW)
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/5R4J8JTkxntj5bp)
 
 
 ***
