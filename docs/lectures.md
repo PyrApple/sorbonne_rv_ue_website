@@ -62,14 +62,14 @@ Sensory-motor loop, navigation, immersion.
 
 binaural, ambisonic, vbap, etc.
 
-<!-- - [Slides [empty]]() -->
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/Qx6sdy98f86rZwC)
 
 
 ## C4.2 Room acoustic modeling and rendering
 
 image sources, beam-tracing, radiosity, etc.
 
-<!-- - [Slides [empty]]() -->
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/E8GnRcakF3gk8eN)
 
 
 ***
