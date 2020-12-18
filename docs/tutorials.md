@@ -46,8 +46,9 @@ After the tutorial:
 
 Creation of a VR application from start to finish. Reinvest the skills learned in previous tutorials to design and implement a full fledged game.
 
-- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/nCYCZXZJwDd47dw)
-
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/W9K9QzXH5BS6fyG)
+- [Tutorial video 1/2](https://rasputin-cloud.ircam.fr/index.php/s/N5Z6i34g7C43ee8)
+- [Tutorial video 2/2](https://rasputin-cloud.ircam.fr/index.php/s/8ai27taLCNeELow)
 
 
 <!-- # TP3 Interactions in VR/AR (2h) -->
