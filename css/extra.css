@@ -1,0 +1,80 @@
+ /* locals */
+:root {
+	--bg-color: white;
+	--bg-color-nav: rgba(90, 90, 90, 1);
+	--bg-color-nav: rgba(90, 90, 90, 1);
+}
+
+body::before {
+	background-color: var(--bg-color);
+	background: none;
+}
+
+/* format and fonts */
+
+* {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h1, h2, h3, p, a, li {
+	font-weight: 300;
+}
+
+h1 {
+	font-size: 24px;
+	/*text-transform: uppercase;*/
+}
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 18px;
+}
+
+p, li, a{
+	font-size: 17px;
+	text-align: justify;
+}
+
+/* special treatment for toc links */
+.nav>li>a {
+	font-size: 14px;
+	margin-bottom: 0em;
+	text-align: left;
+}
+
+p, ul {
+	margin-bottom: 1em;
+}
+
+.navbar-default .navbar-nav>li>a {
+	font-size: 19px;
+}
+
+hr {
+	margin-bottom: 2em;
+	margin-top: 2em;
+}
+
+/* hide toc second etc. level elements */
+.nav>.second-level {
+	display:none;
+}
+.nav>.third-level {
+	display:none;
+}
+
+/* second level list items */
+ul li ul {
+	/*font-size: 1em;*/
+}
+
+code{
+	font-size: 0.75em;
+}
+
+pre code{
+	font-size: 1.05em;
+}
