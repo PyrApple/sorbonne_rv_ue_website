@@ -6,14 +6,15 @@ theme:
 
 extra_css:
     - css/extra.css
-    
+
 nav:
     # - Home: index.md
-    # - TP: 
+    # - TP:
     #   - TP1: tp-audio-spat.md
     #   - TP2: tp-audio-spat.md
     - Lectures: lectures.md
     - Tutorials: tutorials.md
+    - Gallery: gallery.md
 
 
 # repo_url: "https://forge-2.ircam.fr/davipoir/sorbonne-vr-ue-website"
