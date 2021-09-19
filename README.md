@@ -1,6 +1,6 @@
 # mkdocs sources of the Sorbonne Univ. VR course
 
-website served @ http://davipoir.gitlab-pages.ircam.fr/sorbonne-vr-ue-website/
+website served @ https://pyrapple.github.io/sorbonne_rv_ue_website/
 
 ## OSX install (devs)
 
@@ -44,6 +44,6 @@ to check registered runners:
 
 gitlab-runner list
 
-to unregister: 
+to unregister:
 
 gitlab-runner unregister -t SoQcQKFxqwaH9WkvwtRx- -u https://forge-2.ircam.fr/
