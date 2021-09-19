@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    
+    <link rel="shortcut icon" href="../img/favicon.ico">
+
+    
+    <title>Plan - SU VR Course</title>
+    
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/v4-shims.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.min.css">
+    <link href='//rsms.me/inter/inter.css' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,600,700&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+    <link href="../css/base.min.css" rel="stylesheet">
+    <link href="../css/cinder.min.css" rel="stylesheet">
+
+    
+        
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.0/build/styles/github.min.css">
+        
+    
+    <link href="../css/extra.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+            <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+        <![endif]-->
+
+    
+
+    
+	<!-- <meta name="author" content=""> -->
+	<!--
+	<p style="color:red; font-size: 18px; text-align: center; font-style: normal;">
+		[site under construction]
+	</p>
+	-->
+
+</head>
+
+<body>
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            
+
+            <!-- Main title -->
+
+            <a class="navbar-brand" href="..">SU VR Course</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                
+                
+                    <li >
+                        <a href="../lectures/">Lectures</a>
+                    </li>
+                
+                
+                
+                    <li class="active">
+                        <a href="./">Plan</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../tutorials/">Tutorials</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../gallery/">Gallery</a>
+                    </li>
+                
+                
+                </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                            <i class="fas fa-search"></i> Search
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../lectures/">
+                            <i class="fas fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="next" href="../tutorials/">
+                            Next <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+    <div class="container">
+        
+        
+        <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="first-level active"><a href="#human-vision">Human vision</a></li>
+        <li class="first-level "><a href="#visual-rendering-computer-graphics-lighting-and-rasterizing">Visual rendering / computer graphics: lighting and rasterizing</a></li>
+        <li class="first-level "><a href="#computer-vision">Computer vision</a></li>
+        <li class="first-level "><a href="#visual-rendering-computer-graphics-from-vertex-to-scene">Visual rendering / computer graphics: from vertex to scene</a></li>
+        <li class="first-level "><a href="#human-spatial-audition">Human (spatial) audition</a></li>
+        <li class="first-level "><a href="#audio-field-encoding-and-decoding">Audio field encoding and decoding</a></li>
+        <li class="first-level "><a href="#room-acoustic-simulation">Room acoustic simulation</a></li>
+        <li class="first-level "><a href="#optional-human-haptics-kinaesthetic-sense-of-touch">(optional) Human haptics / kinaesthetic / sense of touch</a></li>
+        <li class="first-level "><a href="#from-basic-game-to-vr-experience-guidelines">From basic game to VR experience: guidelines</a></li>
+        <li class="first-level "><a href="#introduction-to-programming-concepts">Introduction to programming concepts</a></li>
+    </ul>
+</div></div>
+        <div class="col-md-9" role="main">
+
+<h1 id="human-vision">Human vision</h1>
+<ul>
+<li>
+<p>From object to eye to brain</p>
+<ul>
+<li>eye model (retina, etc.)</li>
+<li>encoding the information (cones, rods)</li>
+<li>interpreting the information<ul>
+<li>brain regions</li>
+<li>brain "specs" (refresh rate, resolution, etc.)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Mechanisms of 3D visual perception</p>
+<ul>
+<li>monocular cues (motion parallax, perspective, etc.)</li>
+<li>binocular cues (parallax, convergence, etc.)</li>
+</ul>
+</li>
+</ul>
+<h1 id="visual-rendering-computer-graphics-lighting-and-rasterizing">Visual rendering / computer graphics: lighting and rasterizing</h1>
+<ul>
+<li>
+<p>The physics of light propagation</p>
+<ul>
+<li>
+<p>Observed propagation phenomenons</p>
+<ul>
+<li>geometric phenomenon (simple reflections, shadows, etc.)</li>
+<li>wave phenomenon (interferences, etc.)</li>
+</ul>
+</li>
+<li>
+<p>Decomposing interactions between light and matter</p>
+<ul>
+<li>absorption</li>
+<li>scattering</li>
+<li>diffraction</li>
+<li>reflection</li>
+<li>refraction</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>The simulation of light propagation</p>
+<ul>
+<li>Reproducing interaction between light and matter: global illumination<ul>
+<li>ray-tracing</li>
+<li>radiosity</li>
+</ul>
+</li>
+<li>Reproducing interaction between light and matter: local illumination<ul>
+<li>ambient lighting</li>
+<li>specular reflection</li>
+<li>diffuse reflection</li>
+<li>All inclusive: Principled BSDF</li>
+</ul>
+</li>
+<li>Typical rendering pipelines (inverse camera ray-tracing, rasterization, etc.)</li>
+</ul>
+</li>
+<li>
+<p>Stereoscopic rendering</p>
+<ul>
+<li>
+<p>Why it's necessary</p>
+</li>
+<li>
+<p>Existing techniques to bring different images to each eye + example use cases</p>
+<ul>
+<li>Short introduction to general double-camera rendering pipeline as used in VR softwares</li>
+<li>Anaglyph (alternating colors)</li>
+<li>Polarization</li>
+<li>Shutter glasses (alternating time)</li>
+<li>HMD (one image per eye)</li>
+<li>etc.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h1 id="computer-vision">Computer vision</h1>
+<ul>
+<li>
+<p>Introduction to the field, focus course on tracking techniques required for adaptive rendering</p>
+</li>
+<li>
+<p>Adaptive rendering (existing tracking techniques + example use cases)</p>
+<ul>
+<li>Outside in camera (Kinect structured light, OptiTrack infra-red pulses, leap motion)</li>
+<li>Inside out camera (e.g. Quest, Hololens)</li>
+<li>Electromagnetic tracking (TDOA: GPS, flock of birds, GSM, etc.)</li>
+<li>Internal MEMs (gyroscope, accelerometers, etc.)</li>
+<li>etc.</li>
+<li>pros/cons of various techniques (6 DoF vs 3 DoF, precision, latency, intrusiveness, operating conditions, installation, etc.)</li>
+</ul>
+</li>
+</ul>
+<h1 id="visual-rendering-computer-graphics-from-vertex-to-scene">Visual rendering / computer graphics: from vertex to scene</h1>
+<ul>
+<li>
+<p>Modeling</p>
+<ul>
+<li>edges, vertices, faces</li>
+<li>meshing and topology</li>
+</ul>
+</li>
+<li>
+<p>Texturing / materials</p>
+<ul>
+<li>textures</li>
+<li>shaders</li>
+<li>normal maps, bump maps, specular maps, etc.</li>
+<li>combining all that into materials</li>
+</ul>
+</li>
+<li>
+<p>Animating</p>
+<ul>
+<li>armatures</li>
+<li>weights</li>
+<li>inverse kinematic</li>
+<li>Keyframes and IPO curves</li>
+</ul>
+</li>
+<li>
+<p>Physics rendering engine</p>
+<ul>
+<li>Bounding box (primitive, convex hull, full mesh)</li>
+<li>Collision detection mechanisms</li>
+<li>Different types of colliders (interaction vs. rigid body)</li>
+</ul>
+</li>
+<li>
+<p>Scene graph</p>
+<ul>
+<li>Hierarchy</li>
+<li>Deep vs shallow copy (Prefabs, etc.)</li>
+</ul>
+</li>
+<li>
+<p>Lighting</p>
+<ul>
+<li>Different types of lights generally available + pro/cons<ul>
+<li>sun, area, spot, etc.</li>
+</ul>
+</li>
+<li>Baking light maps</li>
+</ul>
+</li>
+<li>
+<p>Camera (optional)</p>
+<ul>
+<li>intrinsic parameters (focal, etc.)</li>
+<li>perspective vs. orthographic</li>
+<li>UI objects</li>
+</ul>
+</li>
+<li>
+<p>Post-processing</p>
+<ul>
+<li>general concept (2D filter) + examples (blur, SSAO, color grading, etc.)</li>
+</ul>
+</li>
+<li>
+<p>A word on perceptual visual optimization</p>
+<ul>
+<li>Level of Detail</li>
+<li>Billboard</li>
+<li>Sky-box</li>
+</ul>
+</li>
+</ul>
+<h1 id="human-spatial-audition">Human (spatial) audition</h1>
+<ul>
+<li>
+<p>From object to ear to brain</p>
+<ul>
+<li>ear model (auditory canal, etc.)</li>
+<li>transcoding the information (from oscillation to neural impulses)</li>
+<li>interpreting the information:<ul>
+<li>brain regions</li>
+<li>brain "specs"</li>
+<li>phenomenons of auditory perception (masking, loudness, etc.)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Mechanisms of 3D audio perception</p>
+<ul>
+<li>monaural cues</li>
+<li>binaural cues</li>
+<li>spatial auditory plasticity</li>
+</ul>
+</li>
+</ul>
+<h1 id="audio-field-encoding-and-decoding">Audio field encoding and decoding</h1>
+<ul>
+<li>
+<p>Encoding models</p>
+<ul>
+<li>definition of encoding (different from recording)</li>
+<li>object oriented format</li>
+<li>sound field (all inclusive)</li>
+</ul>
+</li>
+<li>
+<p>Audio object spatial encoding and decoding (c.f. C4_1)</p>
+<ul>
+<li>Sound source panning<ul>
+<li>stereo</li>
+<li>surround</li>
+<li>VBAP</li>
+</ul>
+</li>
+<li>Sound field synthesis<ul>
+<li>WFS</li>
+<li>Ambisonic</li>
+<li>Boundary surface control</li>
+</ul>
+</li>
+<li>In ear reconstruction<ul>
+<li>binaural</li>
+<li>transaural</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Spatial audio recording hardware and techniques</p>
+<ul>
+<li>Required compared to visuals, as it's not (yet) easy to "3D model" sounds</li>
+<li>Mono</li>
+<li>Stereo pair</li>
+<li>Binaural dummy head / in-ear microphones</li>
+<li>Ambisonic microphone</li>
+<li>Anechoic room: get rid of all but direct sound</li>
+</ul>
+</li>
+</ul>
+<h1 id="room-acoustic-simulation">Room acoustic simulation</h1>
+<ul>
+<li>
+<p>The physics of acoustic propagation</p>
+<ul>
+<li>Observed propagation phenomenons<ul>
+<li>absorption</li>
+<li>scattering</li>
+<li>diffraction</li>
+<li>reflection</li>
+<li>refraction</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Room acoustic measurement</p>
+<ul>
+<li>room impulse response</li>
+<li>RIR measurement techniques</li>
+<li>RIR convolution: a simple method to "simulate" room acoustics</li>
+</ul>
+</li>
+<li>
+<p>Analyzing an RIR to quantify the acoustic of a room</p>
+<ul>
+<li>reverberation time</li>
+<li>mixing time</li>
+<li>envelopment</li>
+<li>etc.</li>
+</ul>
+</li>
+<li>
+<p>The simulation of acoustic propagation (c.f. C4_2)
+(Existing models used to represent acoustic propagation + pros and cons)</p>
+<ul>
+<li>geometric acoustics models<ul>
+<li>stochastic vs deterministic methods</li>
+<li>ray-tracing</li>
+<li>image source</li>
+<li>simulating diffraction</li>
+</ul>
+</li>
+<li>models based on energy consideration<ul>
+<li>Sabine analytic formula</li>
+<li>radiosity</li>
+</ul>
+</li>
+<li>wave based models<ul>
+<li>BEM</li>
+</ul>
+</li>
+<li>artificial models<ul>
+<li>FDN</li>
+<li>statistical reverberation</li>
+<li>etc.</li>
+</ul>
+</li>
+<li>hybrid models</li>
+</ul>
+</li>
+<li>
+<p>From 3D mesh model to 3D acoustic mesh model</p>
+<ul>
+<li>measuring the acoustic characteristics of physical materials</li>
+<li>assigning acoustic properties</li>
+<li>validation of the simulated acoustic</li>
+</ul>
+</li>
+<li>
+<p>Characterization and simulation of source directivity</p>
+<ul>
+<li>measurement</li>
+<li>simulation / integration in simulation</li>
+</ul>
+</li>
+</ul>
+<h1 id="optional-human-haptics-kinaesthetic-sense-of-touch">(optional) Human haptics / kinaesthetic / sense of touch</h1>
+<ul>
+<li>
+<p>haptics</p>
+<ul>
+<li>physiology of touch (sensors)</li>
+<li>how the information is processed by the brain</li>
+</ul>
+</li>
+<li>
+<p>simulating haptics in VR</p>
+</li>
+<li>
+<p>etc. (mimic audio / visual courses)</p>
+</li>
+</ul>
+<h1 id="from-basic-game-to-vr-experience-guidelines">From basic game to VR experience: guidelines</h1>
+<ul>
+<li>
+<p>the art of motion</p>
+<ul>
+<li>proprioception<ul>
+<li>how it works (bio sensors + physiology behind)</li>
+<li>how it challenges VR -&gt; motion sickness</li>
+</ul>
+</li>
+<li>how to move in VR<ul>
+<li>teleportation</li>
+<li>reduce field of view while walking</li>
+<li>infinite walk (ever changing environment)</li>
+<li>etc.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>how to immerse users</p>
+<ul>
+<li>field of view</li>
+<li>rendering quality</li>
+<li>tracking thresholds</li>
+<li>frame-rate and latency</li>
+<li>a coherent whole</li>
+<li>number of stimulated sensory modalities</li>
+</ul>
+</li>
+<li>
+<p>develop the feeling of presence</p>
+<ul>
+<li>definition</li>
+<li>important components (c.f. C2_2)</li>
+</ul>
+</li>
+<li>
+<p>multi-sensory integration (c.f. C2_2)</p>
+<ul>
+<li>sensory interference (who is dominant when more than one is involved)<ul>
+<li>ventriloquism</li>
+<li>room matching</li>
+</ul>
+</li>
+<li>towards cross-modal enhancement</li>
+</ul>
+</li>
+<li>
+<p>Enable near field interactions</p>
+<ul>
+<li>near field audio rendering (non linear effects, etc.)</li>
+<li>near field visuals: requires high quality</li>
+<li>haptics (e.g. vibration of an engine)</li>
+<li>precise hand / physics simulation</li>
+</ul>
+</li>
+<li>
+<p>UI integration in world</p>
+</li>
+</ul>
+<p>(see <a href="https://medium.com/@oneStaci/https-medium-com-ux-vr-18-guidelines-51ef667c2c49">this site</a> to develop course if need be)</p>
+<h1 id="introduction-to-programming-concepts">Introduction to programming concepts</h1>
+<p>Introduction to programming concepts related to VR applications</p>
+<ul>
+<li>Existing data types (boolean, floats, arrays, dictionaries, etc.)</li>
+<li>Object oriented programming (class, methods)</li>
+<li>Inheritance</li>
+<li>Synchronous vs. Asynchronous calls</li>
+</ul></div>
+        
+        
+    </div>
+
+    <footer class="col-md-12 text-center">
+        
+<!-- <hr> -->
+<p>
+<!-- <small>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</small> -->
+
+</p>
+
+    </footer>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="../js/bootstrap-3.0.3.min.js"></script>
+
+    
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.0/build/highlight.min.js"></script>
+        
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    <script>var base_url = ".."</script>
+    
+    <script src="../js/base.js"></script>
+    <script src="../search/main.js"></script>
+
+    <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span>
+                    <span class="sr-only">Close</span>
+                </button>
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+    </body>
+
+</html>
