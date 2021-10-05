@@ -3,8 +3,8 @@
 Introduction to game creation workflow.
 Learn to use the Unity game creation software, understand the general scene creation workflow and how to use its constituting components.
 
-- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/7J5Y8QjxMQGGesM)
-- [Assets](https://rasputin-cloud.ircam.fr/index.php/s/HwtqJPCZBgRgdxY)
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/WdM9PBiX3cqx2Rb)
+- [Assets](https://rasputin-cloud.ircam.fr/index.php/s/ir7YA4pxgF6Se6x)
 
 <!--
 After the tutorial:
@@ -19,13 +19,13 @@ After the tutorial:
 
 Practical introduction to various 3D audio rendering techniques. Learn to use some of the existing frameworks designed to add 3D sound to a Unity scene.
 
-- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/8t2tN2YZAWodsQR)
-- [Assets](https://rasputin-cloud.ircam.fr/index.php/s/4ZwXf2PCjfFrk9o)
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/HcZcBYm7jsWzC9T)
+- [Assets](https://rasputin-cloud.ircam.fr/index.php/s/4ZMnTHm4ZMXwwb7)
+- [Audio spatialization introduction video](https://rasputin-cloud.ircam.fr/index.php/s/H3kGa4bP49WbmoN)
 
 <!--
 After the tutorial:
 
-- [Audio spatialization introduction video](https://rasputin-cloud.ircam.fr/index.php/s/H3kGa4bP49WbmoN)
 - [Assets master](https://rasputin-cloud.ircam.fr/index.php/s/fSmCqeCZjEibaLQ)
 - [Tutorial video](https://rasputin-cloud.ircam.fr/index.php/s/tbqwsmttpqSg7qj)
 -->
@@ -36,8 +36,8 @@ After the tutorial:
 
 Introduction to C# programing in Unity. Learn the basic patterns on which relies game logic design.
 
-- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/sX5dxbnDQWoBr4t)
-- [Assets](https://rasputin-cloud.ircam.fr/index.php/s/9AWzJaeedLcZqyb)
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/fXtCyaSaTy8oRmK)
+- [Assets](https://rasputin-cloud.ircam.fr/index.php/s/sKxpNDQ7GqPiN8y)
 
 <!--
 After the tutorial:
@@ -52,7 +52,7 @@ After the tutorial:
 
 Creation of a VR application from start to finish. Reinvest the skills learned in previous tutorials to design and implement a full fledged game.
 
-- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/W9K9QzXH5BS6fyG)
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/bC4D89mQSNQwFSY)
 
 <!--
 After the tutorial:
