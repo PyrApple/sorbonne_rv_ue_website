@@ -6,12 +6,12 @@ Learn to use the Unity game creation software, understand the general scene crea
 - [Slides](https://rasputin-cloud.ircam.fr/index.php/s/WdM9PBiX3cqx2Rb)
 - [Assets](https://rasputin-cloud.ircam.fr/index.php/s/ir7YA4pxgF6Se6x)
 
-<!--
+
 After the tutorial:
 
-- [Assets master](https://rasputin-cloud.ircam.fr/index.php/s/LPAWBMeT7Sw7P7S)
+- [Assets master](https://rasputin-cloud.ircam.fr/index.php/s/NXtagBipqRq3Daj)
 - [Tutorial video](https://rasputin-cloud.ircam.fr/index.php/s/Z6AF3NceqycesRk)
--->
+
 
 * * *
 
