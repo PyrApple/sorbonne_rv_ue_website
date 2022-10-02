@@ -1,8 +1,11 @@
 site_name: SU VR Course
 
 theme:
-    name: cinder
-    custom_dir: cinder-theme-ext
+    name: material
+    palette:
+        primary: grey
+    # name: cinder
+    # custom_dir: cinder-theme-ext
 
 extra_css:
     - css/extra.css
@@ -16,6 +19,8 @@ nav:
     - Tutorials: tutorials.md
     - Gallery: gallery.md
 
+markdown_extensions:
+    - attr_list
 
 # repo_url: "https://forge-2.ircam.fr/davipoir/sorbonne-vr-ue-website"
 

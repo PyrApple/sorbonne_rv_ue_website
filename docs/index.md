@@ -44,11 +44,19 @@ Basic knowledge on computer graphics, signal processing and programming.
 
 Softwares required during tutorials:
 
-- [Unity](https://unity3d.com/get-unity/download/archive) (2019.4) + [Visual Studio](https://visualstudio.microsoft.com/fr/vs/unity-tools/) (Windows) or [Visual Studio Code](https://code.visualstudio.com) (MacOS)
-- [Blender](https://www.blender.org/download/) (v2.93)
+- [Unity](https://unity.com/download) (2021.3.6f1) + [Visual Studio](https://visualstudio.microsoft.com/fr/vs/unity-tools/) (Windows) or [Visual Studio Code](https://code.visualstudio.com) (MacOS)
+- [Blender](https://www.blender.org/download/) (v3.3)
+<!--
 - (optional) [Cycling '74 Max](https://cycling74.com/products/max/) (v8)
 - (optional) [Ircam Spat](https://forumnet.ircam.fr/product/spat-en/) (v5.1.4 or above).
+ -->
 
-<!-- Don't forget to [add the Spat folder to Max search path](https://docs.cycling74.com/max8/vignettes/file_preferences_window).  -->
+<!--
+Don't forget to [add the Spat folder to Max search path](https://docs.cycling74.com/max8/vignettes/file_preferences_window).
+-->
+<!--
 Spat install instructions can be found [here](https://discussion.forum.ircam.fr/t/spat-5-for-max-read-this-first/21628).
 A 12 months Cycling '74 Max licence is offered to attending students (contact [Olivier Warusfel](https://www.ircam.fr/person/olivier-warusfel/)).
+ -->
+
+ [Subscribe to our newsletter](#){ .md-button }
