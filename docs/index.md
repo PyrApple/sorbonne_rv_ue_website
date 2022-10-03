@@ -1,6 +1,8 @@
 <!-- See the course [Moodle](https://moodle-sciences.upmc.fr/moodle-2021/login/index.php) for logistic (timetable, etc.). -->
 
-# Course description
+# Home
+
+## Course description
 
 Explore the principles and techniques of virtual and augmented reality. Learn the main properties of human sensory modalities and the principles of the sensory-motor loop involved when interacting with the physical and virtual worlds. Identify technological interfaces and displays used for human-machine interaction. Understand the models and algorithms used for the interactive and real-time multi-modal rendering of the virtual scene.
 
@@ -20,19 +22,19 @@ Left         | Center        | Right
 -->
 
 
-# Learning outcome
+## Learning outcome
 
 - Basic knowledge on human spatial and multi-modal perception and cognition.
 - Understanding of the main audio-visual rendering techniques.
 - Learn to design and implement a simple VR application.
 
 
-# Pre-requisites
+## Pre-requisites
 
 Basic knowledge on computer graphics, signal processing and programming.
 
 
-# Instructors
+## Instructors
 
 - [Indira Thouvenin](https://www.hds.utc.fr/~ithouven/dokuwiki/) (UTC Compiègne)
 - [Olivier Warusfel](https://www.ircam.fr/person/olivier-warusfel/) (IRCAM-STMS)
@@ -40,11 +42,11 @@ Basic knowledge on computer graphics, signal processing and programming.
 - [David Poirier-Quinot](https://pyrapple.github.io/) (Sorbonne University)
 
 
-# Installation
+## Installation
 
 Softwares required during tutorials:
 
-- [Unity](https://unity.com/download) (2021.3.6f1) + [Visual Studio](https://visualstudio.microsoft.com/fr/vs/unity-tools/) (Windows) or [Visual Studio Code](https://code.visualstudio.com) (MacOS)
+- [Unity](https://unity.com/download) (2021.3.6f1 free student version) + [Visual Studio](https://visualstudio.microsoft.com/fr/vs/unity-tools/) (Windows) or [Visual Studio Code](https://code.visualstudio.com) (MacOS)
 - [Blender](https://www.blender.org/download/) (v3.3)
 <!--
 - (optional) [Cycling '74 Max](https://cycling74.com/products/max/) (v8)
@@ -59,4 +61,5 @@ Spat install instructions can be found [here](https://discussion.forum.ircam.fr/
 A 12 months Cycling '74 Max licence is offered to attending students (contact [Olivier Warusfel](https://www.ircam.fr/person/olivier-warusfel/)).
  -->
 
- [Subscribe to our newsletter](#){ .md-button }
+ <!-- [Lectures](#){ .md-button } -->
+ <!-- [Tutorials](#){ .md-button } -->

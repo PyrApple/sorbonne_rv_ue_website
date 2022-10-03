@@ -1,9 +1,9 @@
-site_name: SU VR Course
+site_name: Sorbonne - Virtual Reality UE
 
 theme:
     name: material
     palette:
-        primary: grey
+        primary: indigo
     # name: cinder
     # custom_dir: cinder-theme-ext
 
@@ -11,11 +11,8 @@ extra_css:
     - css/extra.css
 
 nav:
-    # - Home: index.md
-    # - TP:
-    #   - TP1: tp-audio-spat.md
-    #   - TP2: tp-audio-spat.md
-    - Lectures: lectures.md
+    - Home: index.md
+    # - Lectures: lectures.md
     - Tutorials: tutorials.md
     - Gallery: gallery.md
 
@@ -24,7 +21,7 @@ markdown_extensions:
 
 # repo_url: "https://forge-2.ircam.fr/davipoir/sorbonne-vr-ue-website"
 
-extra:
-  collapse_toc: true
-  toc_depth: 1
-  include_search: false
+# extra:
+  # collapse_toc: true
+  # toc_depth: 1
+  # include_search: false

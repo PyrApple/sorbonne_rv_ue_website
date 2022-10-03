@@ -1,12 +1,23 @@
  /* locals */
+:root {
+	--bg-color: white;
+	--bg-color-nav: rgba(90, 90, 90, 1);
+	--bg-color-nav: rgba(90, 90, 90, 1);
+}
+
+body::before {
+	background-color: var(--bg-color);
+	background: none;
+}
 
 /* format and fonts */
 
+* {
+	font-family: 'Ubuntu', sans-serif;
+}
+
 h1, h2, h3, p, a, li {
 	font-weight: 300;
-}
-.md-typeset h3 {
-  font-weight: 300;
 }
 
 h1 {
@@ -20,7 +31,6 @@ h2 {
 
 h3 {
 	font-size: 18px;
-	font-weight: 500;
 }
 
 p, li, a{
@@ -29,13 +39,11 @@ p, li, a{
 }
 
 /* special treatment for toc links */
-/*
 .nav>li>a {
 	font-size: 14px;
 	margin-bottom: 0em;
 	text-align: left;
 }
-*/
 
 p, ul {
 	margin-bottom: 1em;
@@ -51,14 +59,12 @@ hr {
 }
 
 /* hide toc second etc. level elements */
-/*
 .nav>.second-level {
 	display:none;
 }
 .nav>.third-level {
 	display:none;
 }
-*/
 
 /* second level list items */
 ul li ul {
