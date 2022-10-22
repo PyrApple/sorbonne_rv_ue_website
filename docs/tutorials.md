@@ -25,12 +25,12 @@ Introduction to C# programing in Unity. Learn the basic patterns on which relies
 - [Assets](https://rasputin-cloud.ircam.fr/index.php/s/KeacSWx6KCwLqX5)
 
 
-<!--
+
 After the tutorial:
 
 - [Assets master](https://rasputin-cloud.ircam.fr/index.php/s/eNrJszkDDNwZBe3)
 - [Tutorial video](https://rasputin-cloud.ircam.fr/index.php/s/JerGZsMaigXgbrH)
- -->
+
 
 * * *
 
