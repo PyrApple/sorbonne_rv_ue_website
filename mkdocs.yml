@@ -14,7 +14,7 @@ nav:
     - Home: index.md
     # - Lectures: lectures.md
     - Tutorials: tutorials.md
-    - Gallery: gallery.md
+    # - Gallery: gallery.md
 
 markdown_extensions:
     - attr_list
