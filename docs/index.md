@@ -38,7 +38,7 @@ Basic knowledge on computer graphics, signal processing and programming.
 
 - [Indira Thouvenin](https://www.hds.utc.fr/~ithouven/dokuwiki/) (UTC Compiègne)
 - [Olivier Warusfel](https://www.ircam.fr/person/olivier-warusfel/) (IRCAM-STMS)
-- [Markus Noisternig](https://www.noisternig.com/) (IRCAM-STMS)
+- [Markus Noisternig](https://www.ircam.fr/person/markus-noisternig/) (IRCAM-STMS)
 - [David Poirier-Quinot](https://pyrapple.github.io/) (Sorbonne University)
 
 
@@ -46,8 +46,8 @@ Basic knowledge on computer graphics, signal processing and programming.
 
 Softwares required during tutorials:
 
-- [Unity](https://unity.com/download) (2021.3.6f1 free student version) + [Visual Studio](https://visualstudio.microsoft.com/fr/vs/unity-tools/) (Windows) or [Visual Studio Code](https://code.visualstudio.com) (MacOS)
-- [Blender](https://www.blender.org/download/) (v3.3)
+- [Unity](https://unity.com/download) (2021.3.x free student version) + [Visual Studio](https://visualstudio.microsoft.com/fr/vs/unity-tools/) (Windows) or [Visual Studio Code](https://code.visualstudio.com) (MacOS)
+- [Blender](https://www.blender.org/download/) (v3.x)
 <!--
 - (optional) [Cycling '74 Max](https://cycling74.com/products/max/) (v8)
 - (optional) [Ircam Spat](https://forumnet.ircam.fr/product/spat-en/) (v5.1.4 or above).
