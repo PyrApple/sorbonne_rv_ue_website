@@ -46,7 +46,7 @@ Basic knowledge on computer graphics, signal processing and programming.
 
 Softwares required during tutorials:
 
-- [Unity](https://unity.com/download) (2021.3.x free student version) + [Visual Studio](https://visualstudio.microsoft.com/fr/vs/unity-tools/) (Windows) or [Visual Studio Code](https://code.visualstudio.com) (MacOS)
+- [Unity](https://unity.com/download) (v2021.3.x free student version) + [Visual Studio](https://visualstudio.microsoft.com/fr/vs/unity-tools/) (Windows) or [Visual Studio Code](https://code.visualstudio.com) (MacOS)
 - [Blender](https://www.blender.org/download/) (v3.x)
 <!--
 - (optional) [Cycling '74 Max](https://cycling74.com/products/max/) (v8)
