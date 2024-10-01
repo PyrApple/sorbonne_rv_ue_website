@@ -6,12 +6,12 @@ Learn to use the Unity game creation software, understand the general scene crea
 - [Slides](https://rasputin-cloud.ircam.fr/index.php/s/TLbCtjPeZom29Jt)
 - [Assets](https://rasputin-cloud.ircam.fr/index.php/s/oPqxKCn4RAFbxSN)
 
-
+<!--
 After the tutorial:
 
 - [Assets master](https://rasputin-cloud.ircam.fr/index.php/s/M4nxgTTz9FBEDWX)
 - [Tutorial video](https://rasputin-cloud.ircam.fr/index.php/s/Z6AF3NceqycesRk)
-
+ -->
 
 * * *
 
@@ -25,19 +25,22 @@ Introduction to C# programing in Unity. Learn the basic patterns on which relies
 - [Assets](https://rasputin-cloud.ircam.fr/index.php/s/KeacSWx6KCwLqX5)
 
 
-
+<!--
 After the tutorial:
 
 - [Assets master](https://rasputin-cloud.ircam.fr/index.php/s/qJD6QScWANg58pD)
 - [Tutorial video](https://rasputin-cloud.ircam.fr/index.php/s/JerGZsMaigXgbrH)
-
+ -->
 
 * * *
 
+<!--
 
 ## T3 Audio Spatialization (2h)
 
 Practical introduction to various 3D audio rendering techniques. Learn to use some of the existing frameworks designed to add 3D sound to a Unity scene.
+
+-->
 
 <!--
 - [Slides]()
@@ -55,7 +58,7 @@ After the tutorial:
 * * *
 
 
-## T4 Mini-Project (2h)
+## T3 Mini-Project (4h)
 
 Creation of a VR application from start to finish. Reinvest the skills learned in previous tutorials to design and implement a full fledged game.
 

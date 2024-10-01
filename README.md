@@ -10,9 +10,12 @@ install mkdocs and deps (e.g. python)
 
 (to use additional themes) install pip and Cie
 
+	brew uninstall mkdocs
 	brew postinstall python3 # setup pip3 if somehow not handled during brew install
-	pip3 install mkdocs
-	pip3 install [mkdocs-theme-name]
+	python3 -m venv ./venv
+	source ./venv/bin/activate
+	python3 -m pip install mkdocs
+	python3 -m pip install mkdocs-material
 
 and change theme name accordingly in ``mkdocs.yml``
 
