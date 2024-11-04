@@ -54,6 +54,23 @@ After the tutorial:
 - [Tutorial video](https://rasputin-cloud.ircam.fr/index.php/s/tbqwsmttpqSg7qj)
 -->
 
+
+## T3 Interfaces (2h)
+
+Hands on introduction to the OSC protocol as an example of technique to simplify integration between applications, frameworks, interfaces, etc. Being able to cherry pick is essential to quickly test and assess interaction designs in VR.
+
+
+- [Slides](https://rasputin-cloud.ircam.fr/index.php/s/fMimnX8NjRYNgYC)
+- [Assets](https://rasputin-cloud.ircam.fr/index.php/s/4QfXfjQE3XGw6Ld)
+
+
+<!--
+After the tutorial:
+
+- [Assets master]()
+- [Tutorial video]()
+-->
+
 * * *
 
 
