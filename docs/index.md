@@ -2,11 +2,10 @@
 
 # Home
 
-## Course description
+## Course Description
 
 Explore the principles and techniques of virtual and augmented reality. Learn the main properties of human sensory modalities and the principles of the sensory-motor loop involved when interacting with the physical and virtual worlds. Identify technological interfaces and displays used for human-machine interaction. Understand the models and algorithms used for the interactive and real-time multi-modal rendering of the virtual scene.
 
-- 3 ECTS Credits
 - 18h Lectures
 - 10h Tutorials
 
@@ -22,11 +21,11 @@ Left         | Center        | Right
 -->
 
 
-## Learning outcome
+## Learning Outcome
 
 - Basic knowledge on human spatial and multi-modal perception and cognition.
 - Understanding of the main audio-visual rendering techniques.
-- Learn to design and implement a simple VR application.
+- Learn to design and implement a simple VR/AR application.
 
 
 ## Pre-requisites
@@ -36,13 +35,12 @@ Basic knowledge on computer graphics, signal processing and programming.
 
 ## Instructors
 
-- [Indira Thouvenin](https://www.hds.utc.fr/~ithouven/dokuwiki/) (UTC Compiègne)
-- [Olivier Warusfel](https://www.ircam.fr/person/olivier-warusfel/) (IRCAM-STMS)
-- [Markus Noisternig](https://www.ircam.fr/person/markus-noisternig/) (IRCAM-STMS)
-- [David Poirier-Quinot](https://pyrapple.github.io/) (Sorbonne University)
+- [Benoït Alary](https://www.ircam.fr/person/benoit-alary) (IRCAM-STMS)
+- [Grégoire Richard](https://www.isir.upmc.fr/personnel/richard/) (ISIR, Sorbonne University)
+- [David Poirier-Quinot](https://pyrapple.github.io/) (IJLRA, Sorbonne University)
 
 
-## Installation
+## Setup
 
 Softwares required during tutorials:
 

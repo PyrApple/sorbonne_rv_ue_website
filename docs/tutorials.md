@@ -1,4 +1,4 @@
-## T1 Game creation 101 (2h)
+## T1 Game Creation 101 (2h)
 
 Introduction to game creation workflow.
 Learn to use the Unity game creation software, understand the general scene creation workflow and how to use its constituting components.
@@ -6,12 +6,12 @@ Learn to use the Unity game creation software, understand the general scene crea
 - [Slides](https://rasputin-cloud.ircam.fr/index.php/s/TLbCtjPeZom29Jt)
 - [Assets](https://rasputin-cloud.ircam.fr/index.php/s/oPqxKCn4RAFbxSN)
 
-
+<!--
 After the tutorial:
 
 - [Assets master](https://rasputin-cloud.ircam.fr/index.php/s/M4nxgTTz9FBEDWX)
 - [Tutorial video](https://rasputin-cloud.ircam.fr/index.php/s/Z6AF3NceqycesRk)
-
+-->
 
 * * *
 
@@ -25,11 +25,12 @@ Introduction to C# programing in Unity. Learn the basic patterns on which relies
 - [Assets](https://rasputin-cloud.ircam.fr/index.php/s/KeacSWx6KCwLqX5)
 
 
+<!--
 After the tutorial:
 
 - [Assets master](https://rasputin-cloud.ircam.fr/index.php/s/qJD6QScWANg58pD)
 - [Tutorial video](https://rasputin-cloud.ircam.fr/index.php/s/JerGZsMaigXgbrH)
-
+-->
 
 * * *
 
@@ -74,7 +75,7 @@ After the tutorial:
 * * *
 
 
-## T3 Mini-Project (4h)
+## T4 Mini-Project (4h)
 
 Creation of a VR application from start to finish. Reinvest the skills learned in previous tutorials to design and implement a full fledged game.
 
