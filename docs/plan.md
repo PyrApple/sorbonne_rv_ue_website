@@ -41,7 +41,7 @@
 
 - Stereoscopic rendering
 
-    - Why it's necessary
+    - Why it is necessary
 
     - Existing techniques to bring different images to each eye + example use cases
         - Short introduction to general double-camera rendering pipeline as used in VR softwares
