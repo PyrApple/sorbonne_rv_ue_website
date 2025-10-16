@@ -7,7 +7,7 @@
 
 Understanding how human vision works.
 
-<!-- - [Slides](https://rasputin-cloud.ircam.fr/index.php/s/YrY4JApBGPpct5E) -->
+[Slides](https://drive.google.com/file/d/1ghyvqd8xv33W10sjWeqdJsq95A7_MG-C/view?usp=sharing)
 
 
 ### C1.2 Human audition
@@ -26,7 +26,7 @@ Understanding how human audition works.
 ### C2.1 Haptic and vestibular sensations
 
 
-<!-- - [Slides](https://rasputin-cloud.ircam.fr/index.php/s/ayzbazFKfmPLMHC) -->
+[Slides](https://drive.google.com/file/d/1k9M0YIAmstAxwLnTHqzWnQE5eAFXXpGS/view?usp=sharing)
 
 
 ### C2.2 Multi-sensory integration
