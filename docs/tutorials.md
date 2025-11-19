@@ -65,12 +65,12 @@ Hands on introduction to the OSC protocol as an example of technique to simplify
 - [Assets](https://rasputin-cloud.ircam.fr/index.php/s/4QfXfjQE3XGw6Ld)
 
 
-<!--
+
 After the tutorial:
 
 - [Assets master]()
 - [Tutorial video]()
--->
+
 
 * * *
 
