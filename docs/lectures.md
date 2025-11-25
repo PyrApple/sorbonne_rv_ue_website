@@ -44,13 +44,13 @@ Sensory-motor loop, navigation, immersion.
 
 ### C3.1 3D modelling and illumination models
 
-
+[Slides](https://drive.google.com/file/d/1DSty_xnKEaSq_KkkoQ0qE2x0icBHAOAU/view?usp=sharing)
 <!-- - [Slides](https://rasputin-cloud.ircam.fr/index.php/s/29JJSQaTXg4NwPW) -->
 
 
 ### C3.2 Perceptual rendering
 
-
+[Slides](https://drive.google.com/file/d/12GjKUWfdVNR_Fa-qiL2J-J2XpgvLTrPi/view?usp=sharing)
 <!-- - [Slides](https://rasputin-cloud.ircam.fr/index.php/s/ZbKJKzK8RZLYyi8) -->
 
 
@@ -79,4 +79,6 @@ image sources, beam-tracing, radiosity, etc.
 
 ## C5 Multi-modal rendering, 3D interaction, and sensory-motor integration
 
+
+[Slides](https://drive.google.com/file/d/1O_1ZEHeU7tyxBgxHGKhOS48-MFyU1JF1/view?usp=sharing)
 <!-- - [Slides](https://rasputin-cloud.ircam.fr/index.php/s/J3FYZLMBsKTQKCe) -->
