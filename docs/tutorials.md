@@ -25,12 +25,12 @@ Introduction to C# programing in Unity. Learn the basic patterns on which relies
 - [Assets](https://rasputin-cloud.ircam.fr/index.php/s/KeacSWx6KCwLqX5)
 
 
-<!--
+
 After the tutorial:
 
 - [Assets master](https://rasputin-cloud.ircam.fr/index.php/s/qJD6QScWANg58pD)
 - [Tutorial video](https://rasputin-cloud.ircam.fr/index.php/s/JerGZsMaigXgbrH)
--->
+
 
 * * *
 
@@ -65,12 +65,12 @@ Hands on introduction to the OSC protocol as an example of technique to simplify
 - [Assets](https://rasputin-cloud.ircam.fr/index.php/s/4QfXfjQE3XGw6Ld)
 
 
-<!--
+
 After the tutorial:
 
-- [Assets master]()
-- [Tutorial video]()
--->
+- [Assets master](https://rasputin-cloud.ircam.fr/index.php/s/3BSRFeXtb9nb38y)
+<!-- - [Tutorial video]() -->
+
 
 * * *
 
